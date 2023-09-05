@@ -8,9 +8,9 @@
 - [Creating Heading Style](#heading-style-h1-h6)
 - [Creating Single Line Code-Block](#single-line-code-block-example-of-git-initialization)
 - [Creating Multiple Line Code-Block](#creating-multiple-line-code-block)
-  - [Example-01](#multiple-line-code-block-example-01)
-  - [Example-02](#multiple-line-code-block-example-02)
-  - [Example-03](#multiple-line-code-block-example-03)
+  - []()
+  - []()
+  - []()
 - [Formatting](#formating-in-markdown)
   - [Formating Italic Text](#formating-italic-text)
   - [Formating Bold Text](#formating-bold-text)
@@ -32,11 +32,11 @@
   - [Use of Blockquote [ Design a Callout ]](#using-of-blockquotes-to-make-a-callout)
 - [Creating Toggle](#using-toggle-in-markdown-file)
 - [Creating Table](#using-table-in-markdown-file)
-  - [Type-01 [ Simple Table ]](#table-01--simple-table-)
-  - [Type-02 [ Left Align Table ]](#table-02-left-align-table)
-  - [Type-03 [ Center Align Table ]](#table-03-center-align-table)
-  - [Type-04 [ Right Align Table ]](#table-04-right-align-table)
-  - [Type-05 [ Left, Center and Right Align Table ]](#table-05-left-center-and-right-align-table)
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
 
 </br>
 
@@ -191,8 +191,6 @@ int main(){
 ```
 
 ## <u>**Formating in MarkDown:**</u>
-
-</br>
 
 ## **Formating Italic Text**
 
