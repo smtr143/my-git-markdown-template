@@ -8,7 +8,7 @@
 - [Creating Heading Style](#heading-style-h1-h6)
 - [Creating Single Line Code-Block](#single-line-code-block-example-of-git-initialization)
 - [Creating Multiple Line Code-Block](#creating-multiple-line-code-block)
-  - [Example-01](https://github.com/smtr143/git-markdown-template#multiple-line-code-block-example-01-)
+  - [Example-01](#multiple-line-code-block-example-01)
   - [Example-02](#multiple-line-code-block-example-02)
   - [Example-03](#multiple-line-code-block-example-03)
 - [Formatting](#formating-in-markdown)
@@ -135,7 +135,7 @@ Example:
 
 <!-- This for JavaScript -->
 
-## **Multiple Line Code-Block Example-01** <!--This is bold -->
+## **Multiple Line Code-Block Example-01:** <!--This is bold -->
 
 ---
 
@@ -151,7 +151,7 @@ console.log(`4. The replaced sentence: ${newtxt2}`);
 
 ```
 
-## **Multiple Line Code-Block Example-02** <!--This is bold -->
+## **Multiple Line Code-Block Example-02:** <!--This is bold -->
 
 ---
 
@@ -173,7 +173,7 @@ console.log(`4. The replaced sentence: ${newtxt2}`);
 
 ```
 
-## **Multiple Line Code-Block Example-03** <!--This is bold -->
+## **Multiple Line Code-Block Example-03:** <!--This is bold -->
 
 ---
 
