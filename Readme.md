@@ -8,7 +8,7 @@
 - [Creating Heading Style](#heading-style-h1-h6)
 - [Creating Single Line Code-Block](#single-line-code-block-example-of-git-initialization)
 - [Creating Multiple Line Code-Block](#creating-multiple-line-code-block)
-  - [Example-01](#mlc-example01)
+  - [MLC Example-01](https://github.com/smtr143/my-git-markdown-template/tree/update-readme#mlc-example01)
   - []()
   - []()
 - [Formatting](#formating-in-markdown)
