@@ -8,9 +8,6 @@
 - [Creating Heading Style](#heading-style-h1-h6)
 - [Creating Single Line Code-Block](#single-line-code-block-example-of-git-initialization)
 - [Creating Multiple Line Code-Block](#creating-multiple-line-code-block)
-  - [MLC Example-01](#example001)
-  - []()
-  - []()
 - [Formatting](#formating-in-markdown)
   - [Formating Italic Text](#formating-italic-text)
   - [Formating Bold Text](#formating-bold-text)
@@ -32,11 +29,11 @@
   - [Use of Blockquote [ Design a Callout ]](#using-of-blockquotes-to-make-a-callout)
 - [Creating Toggle](#using-toggle-in-markdown-file)
 - [Creating Table](#using-table-in-markdown-file)
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
+  - [Table-01 [Simple Table]](#table-01--simple-table)
+  - [Table-02 [Left Align Table]](#table-02--left-align-table)
+  - [Table-03 [Center Align Table]](#table-03--center-align-table)
+  - [Table-04 [Right Align Table]](#table-04--right-align-table)
+  - [Table-05 [Left, Center and Right Align Table]](#table-05--left-center-and-right-align-table)
 
 </br>
 
