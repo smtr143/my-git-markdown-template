@@ -29,11 +29,6 @@
   - [Use of Blockquote [ Design a Callout ]](#using-of-blockquotes-to-make-a-callout)
 - [Creating Toggle](#using-toggle-in-markdown-file)
 - [Creating Table](#using-table-in-markdown-file)
-  - [Table-01](#table-01--simple-table)
-  - [Table-02](#table-02--left-align-table)
-  - [Table-03](#table-03--center-align-table)
-  - [Table-04](#table-04--right-align-table)
-  - [Table-05](#table-05--left-center-and-right-align-table)
 
 </br>
 
